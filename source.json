@@ -1,0 +1,29 @@
+[
+    {
+    "category": "general",
+    "country": "us",
+    "description": "Your trusted source for breaking news, analysis, exclusive interviews, headlines, and videos at ABCNews.com.",
+    "id": "abc-news",
+    "language": "en",
+    "name": "ABC News",
+    "url": "https://abcnews.go.com"
+    },
+    {
+    "category": "general",
+    "country": "au",
+    "description": "Australia's most trusted source of local, national and world news. Comprehensive, independent, in-depth analysis, the latest business, sport, weather and more.",
+    "id": "abc-news-au",
+    "language": "en",
+    "name": "ABC News (AU)",
+    "url": "http://www.abc.net.au/news"
+    },
+    {
+    "category": "general",
+    "country": "no",
+    "description": "Norges ledende nettavis med alltid oppdaterte nyheter innenfor innenriks, utenriks, sport og kultur.",
+    "id": "aftenposten",
+    "language": "no",
+    "name": "Aftenposten",
+    "url": "https://www.aftenposten.no"
+    }
+]
