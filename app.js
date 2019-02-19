@@ -73,7 +73,7 @@ passport.deserializeUser(function(id, done) {
   });
 });
 
-mongoose.connect('mongodb://heroku_9xnpcngg:gtku3sh04lbqunq4uq5mtvbavr@ds127878.mlab.com:27878/heroku_9xnpcngg');
+mongoose.connect('mongodb://admin:admin_user_12345@ds341825.mlab.com:41825/heroku_btzc7pfs');
 var db = mongoose.connection;
 db.on('error', console.error.bind(console, 'connection error:'));
 db.once('open', function() {
